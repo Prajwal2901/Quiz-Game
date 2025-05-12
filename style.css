@@ -2,14 +2,14 @@ body{
     background-color: rgb(249, 247, 242);
 }
 
-.logo-contain img{
-    width: 40px;
+.quizlogo-contain img{
+    width: 50px;
 }
 
-.logo{
+.quizlogo{
     text-decoration: none;
     color: rgb(45, 160, 181);
-    font-size: 24px;
+    font-size: 27px;
     font-weight: 700;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
