@@ -3,13 +3,13 @@ body{
 }
 
 .quizlogo-contain img{
-    width: 50px;
+    width: 40px;
 }
 
 .quizlogo{
     text-decoration: none;
     color: rgb(45, 160, 181);
-    font-size: 27px;
+    font-size: 24px;
     font-weight: 700;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
