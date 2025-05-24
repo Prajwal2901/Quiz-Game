@@ -29,7 +29,7 @@ const quizQuestions = [
     },
 
     {
-        question: "Q.4 Which of the below is the abbreviation of CSS?",
+        question: "Q.4 Which does CSS Stand for?",
         a :"Cascade sheets style",
         b :"Color style sheets",
         c :"Cascading style sheets",
